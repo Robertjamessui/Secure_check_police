@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../../etc"
+		},
+		{
+			"path": "../../Include"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../myenv"
+		},
+		{
+			"path": "../../Scripts"
+		},
+		{
+			"path": "../../share"
+		}
+	]
+}
